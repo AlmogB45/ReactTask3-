@@ -1,0 +1,10 @@
+.list-container {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+#remove {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
